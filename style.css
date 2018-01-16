@@ -105,3 +105,34 @@ textarea
 	height:250px;
 	background: #C0C0C0;
 }*/
+
+.resp2
+{
+margin-top: 40px;
+}
+
+@media screen and (max-width: 767px)
+{
+	.navbar-nav
+	{
+		display: none;
+	}
+.panel-default
+{
+	height: auto;
+}	
+body
+{
+	padding-top: 50px;
+}
+
+.resp
+{
+	font-size:22px;
+}
+.resp2
+{
+	
+	margin-top: 20px;
+}
+} 
